@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Aekus Singh Trehan</h1>
+<h3 align="center">A passionate Computer Science Student at Carleton University</h3>
 
-<!--
-**ayekus/ayekus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a **CICD Pipeline** using AWS, Docker and Kubernetes
 
-Here are some ideas to get you started:
+- 🌱 I’m currently studying for **AWS Certified Solutions Architect**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 View my personal porfolio website [aekus.dev](https://aekus.dev)
+
+- 📝 Check out my team's winning submission to UOttawa Hack -> [Touchless](https://devpost.com/software/touchless-g72ten)
+
+- 📫 Feel free to reach out to me at **aekus.trehan@gmail.com**
+
+- 📄 Check out my [resume](https://aekus.dev/CV.pdf)
