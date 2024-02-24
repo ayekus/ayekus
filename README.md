@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aekus Singh Trehan</h1>
-<h3 align="center">A passionate Computer Science Student at Carleton University</h3>
+<h3 align="center">A passionate Computer Science Student and Teaching Assistant @ Carleton University</h3>
 
 - 🔭 I’m currently working on a **CICD Pipeline** using AWS, Docker and Kubernetes
 
