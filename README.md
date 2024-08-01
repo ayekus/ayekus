@@ -5,6 +5,8 @@
 
 - 👨‍💻 View my personal portfolio website [aekus.dev](https://aekus.dev)
 
+- 📝 Check out my team's winning submission to UOttawa Hack → [Touchless](https://devpost.com/software/touchless-g72ten)
+
 
 #### Programming Languages:
 
