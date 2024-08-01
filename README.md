@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 ### I'm Aekus
 
 - 🌱 I’m currently learning **Spring** for Java development
