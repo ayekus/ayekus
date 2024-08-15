@@ -1,7 +1,7 @@
 # Hi there 👋
 ### I'm Aekus
 
-- 🌱 I’m currently learning **Spring** for Java development
+- 🌱 I’m currently refining my **Spring** knowledge for Java Backend Development through personal projects
 
 - 👨‍💻 View my personal portfolio website [aekus.dev](https://aekus.dev)
 
