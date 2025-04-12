@@ -1,12 +1,4 @@
-# Hi there 👋
-### I'm Aekus
-
-- 🌱 I’m currently refining my **Spring** knowledge for Java Backend Development through personal projects
-
-- 👨‍💻 View my personal portfolio website [aekus.dev](https://aekus.dev)
-
-- 📝 Check out my team's winning submission to UOttawa Hack → [Touchless](https://devpost.com/software/touchless-g72ten)
-
+# Hi there, I'm Aekus 👋
 
 #### Programming Languages:
 
